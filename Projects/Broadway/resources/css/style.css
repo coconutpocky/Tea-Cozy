@@ -1,10 +1,11 @@
 .header {
   background-image: url(../images/the-flatiron-building.png);
   text-align: center;
+
+
 }
 
-ul {
-  list-style-type: none;
+.list {
   font-size: 18px;
   font-family: Helvetica;
   color: White;
@@ -33,4 +34,32 @@ ul {
   font-size: 70px;
   font-weight: bold;
   color: White;
+}
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.footer {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+
+.footerlinks {
+  color: White;
+
+}
+
+ #list {
+  color: white;
 }
