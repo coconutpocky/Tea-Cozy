@@ -23,6 +23,11 @@
 
 }
 
+.text #summary {
+  font-size: 14px;
+  font-family: Helvetica;
+}
+
 
 .des {
   background-image: url(../images/the-flatiron-building.png);
@@ -49,6 +54,11 @@ h3 {
   font-family: Helvetica;
   font-size: 23px;
   font-weight: bold;
+
+}
+
+h3 .text {
+  font-weight: bold;
 }
 
 .footer {
@@ -58,7 +68,7 @@ h3 {
   background-color: dimgray;
 }
 
-.footerlinks {
+.list2 {
   color: White;
 
 }
