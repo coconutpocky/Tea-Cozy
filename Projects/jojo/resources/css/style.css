@@ -1,0 +1,32 @@
+h1 {
+text-align: center;
+color: Purple;
+font-size: 40px;
+border: dotted 5px Purple;
+font-family: cursive;
+margin-top: 60px;
+width: 90%;
+margin: 0 auto;
+}
+
+.logo1 {
+  padding-right: 100px;
+  padding-top: 20px;
+  width: 10%;
+}
+
+.logo2 {
+  padding-left: 100px;
+  padding-top: 20px;
+  width: 10%;
+}
+
+
+h2 {
+
+}
+
+
+h3 {
+
+}
