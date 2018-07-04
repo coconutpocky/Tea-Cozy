@@ -1,8 +1,8 @@
 h1 {
 text-align: center;
-color: Purple;
-font-size: 40px;
-border: dotted 5px Purple;
+color: indigo;
+font-size: 30px;
+border: dotted 5px mediumPurple;
 font-family: cursive;
 margin-top: 60px;
 width: 90%;
@@ -22,11 +22,62 @@ margin: 0 auto;
 }
 
 
-h2 {
+h2, h3 {
+text-align: center;
+font-size: 50px;
+font-family: sans-serif;
+color: indigo;
+
+
+}
+
+h2.number {
+
+  margin-top: 200px;
+
+
 
 }
 
 
-h3 {
+img.picset {
 
+  height: 400px;
+  width: 500px;
+  padding: 10px;
+  display: inline-block;
+  border: solid 4px white;
+}
+
+.toniocenter {
+  text-align: center;
+
+}
+
+body {
+  background-color: Lightskyblue;
+}
+
+p {
+  margin: 0 auto;
+  color: midnightblue;
+  font-family: sans-serif;
+  font-size: 25px;
+  border: dotted 5px White;
+  width: 800px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.pageborder {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  border: dotted 10px white;
+}
+
+ul {
+  position: fixed;
+  font-family: sans-serif;
+  font-size: 25px;
+  list-style: none;
 }
