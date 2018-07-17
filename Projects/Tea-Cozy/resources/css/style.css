@@ -1,0 +1,170 @@
+body {
+  background-color: black;
+  margin: 0;}
+
+header {
+  height: 69px;
+  width: 100%;
+  background-color: black;
+  border-bottom: 1px solid seashell;
+  position: fixed;
+  display: flex;
+  align-items: center;
+  font-family: Helvetica;
+  font-size: 22px;
+  color: Seashell;
+  z-index: 2;}
+
+a {
+  color: seashell;}
+
+.header {
+  flex-grow: 1;}
+
+
+nav span {
+text-decoration: underline;
+display: inline-block;
+padding: 20px 10px;}
+
+.logo {
+  padding-left: 10px;
+  height: 50px;}
+
+.background {
+  margin-top: 69px;
+  width: 1200px;
+  height: 769px;
+
+}
+
+.opener {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.openerinfo {
+  position: absolute;
+  background-color: black;
+  width: 100%;
+  top: 350px;
+  font-family: Helvetica;
+  font-size: 22px;
+  color: Seashell;
+  text-align: center;}
+
+.tea-of-the-month {
+  width: 1000px;
+  height: 700px;
+  margin: 0 auto;
+  margin-top: 100px;
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 22px;
+  color: Seashell;
+
+}
+
+.teas {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.teas img {
+  height: 200px;
+  width: 300px;
+  padding-bottom: 10px;
+  padding-right: 32px;
+
+}
+
+.teas h4 {
+  margin: 0;
+  padding-bottom: 10px;
+}
+
+
+}
+
+h2 .tea-of-the-month {
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 22px;
+  color: Seashell;
+}
+
+
+.locations {
+
+  background-image: url(../images/location.jpg);
+  background-position: center;
+  height: 500px;
+  width: 1200px;
+  margin-top: 50px;
+  margin: 0 auto;}
+
+.locations h2 {
+  font-family: Helvetica;
+  color: Seashell;
+  text-align: center;
+  padding-top: 50px;
+}
+
+
+
+.locationoptions {
+  display: flex;
+  height: 300px;
+  margin-top: 15px;
+  justify-content: center;
+}
+
+.leftoption {
+  height: 300px;
+  width: 300px;
+  background-color: black;
+  margin-right: 40px;
+  font-family: Helvetica;
+  font-size: 22px;
+  color: Seashell;
+  text-align: center;
+}
+
+.middleoption {
+  height: 300px;
+  width: 300px;
+  background-color: black;
+  margin-right: 40px;
+  font-family: Helvetica;
+  font-size: 22px;
+  color: Seashell;
+  text-align: center;
+
+}
+
+.rightoption {
+  height: 300px;
+  width: 300px;
+  background-color: black;
+  margin-right: 40px;
+  font-family: Helvetica;
+  font-size: 22px;
+  color: Seashell;
+  text-align: center;
+}
+
+.info {
+  font-family: Helvetica;
+  color: seashell;
+  text-align: center;
+  height: 200px;
+}
+
+footer {
+  padding-left: 20px;
+  text-align: left;
+  font-family: Helvetica;
+  color: seashell;
+}
